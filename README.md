@@ -1,6 +1,6 @@
 # Q-Tracker Cirus Lab
 
-Q-Tracker is originally a 12 Project created by Admins of Cirus Lab.
+Q-Tracker is originally a High School Project created by Admins of Cirus Lab.
 It's completly coded in python along with mysql.(Tkinter For GUI)
 
 ## Description
