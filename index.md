@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Q-Tracker Cirus Lab
 
-You can use the [editor on GitHub](https://github.com/fal3n-4ngel/Q-Tracker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Q-Tracker is originally a High School Project created by Admins of Cirus Lab.
+It's completly coded in python along with mysql.(Tkinter For GUI)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Description
+  Q-tracker is a mysql based python program which focuses on database management in Quarantine Centers. It offers a simple GUI solution to add and delete details p new patients ,and also alert on the new details.
+  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Cirus Lab
 
-# Header 1
-## Header 2
-### Header 3
+```markdown   
 
-- Bulleted
-- List
+# Python Programming
+## Android Development
+### AI and Web Development
 
-1. Numbered
-2. List
+- Non profit community
+- Formed By Bharath Krishna
 
-**Bold** and _Italic_ and `Code` text
+#Senior Developers
+1. Adithya Krishnan. fal3n.4ngel Github/ Insta
+2. Bharath Krishna. Th3_nuclear_rebel Insta
 
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fal3n-4ngel/Q-Tracker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
