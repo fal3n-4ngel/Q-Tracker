@@ -9,19 +9,3 @@ It's completly coded in python along with mysql.(Tkinter For GUI)
 
 
 
-## Cirus Lab
-
-```markdown   
-
-# Python Programming
-## Android Development
-### AI and Web Development
-
-- Non profit community
-- Formed By Bharath Krishna
-
-#Senior Developers
-1. Adithya Krishnan. fal3n.4ngel Github/ Insta
-2. Bharath Krishna. Th3_nuclear_rebel Insta
-
-```
